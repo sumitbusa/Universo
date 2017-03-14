@@ -1,0 +1,6 @@
+/* Table Details */
+
+news:
+	col name: id:(auto), Date:(date),title:(varchar),Description:(varchar)
+Course:
+	col name: id:(auto), titile:(varchar),category:(varchar),date:(date),length(date),time_duration_per_week(time),time(time)
